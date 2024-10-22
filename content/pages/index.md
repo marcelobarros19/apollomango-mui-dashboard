@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Dashboard
 type: Page
 sections:
   - type: HeroSection
