@@ -5,10 +5,11 @@ sections:
   - type: HeroSection
     title: Dashboard
     subtitle: '3D Rendering, Modelling, Animation'
-    text: >
-      This is the HeroSection component. You can visually edit this component &
-      add more sections while developing locally. [Learn
-      more.](https://docs.netlify.com/visual-editor/local-development/)
+    text: |+
+      ```
+      Inside.
+      ```
+
     actions:
       - type: Button
         label: Start Building
