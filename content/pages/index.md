@@ -15,7 +15,7 @@ sections:
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: small
         variant: outlined
-        color: primary
+        color: inherit
     image:
       type: Image
       altText: Hero section image
