@@ -14,7 +14,7 @@ sections:
         label: Start Building
         url: 'https://docs.netlify.com/visual-editor/get-started/'
         size: small
-        variant: outlined
+        variant: contained
         color: primary
     image:
       type: Image
