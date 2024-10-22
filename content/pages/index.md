@@ -13,7 +13,7 @@ sections:
       - type: Button
         label: Start Building
         url: 'https://docs.netlify.com/visual-editor/get-started/'
-        size: large
+        size: medium
         variant: contained
         color: primary
     image:
